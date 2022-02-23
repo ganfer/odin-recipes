@@ -1,5 +1,23 @@
+
+/*
+Text
+*/
 p {
     font-family: "Times New Roman", sans-serif;
     font-size: 22px;
     text-align: center;
   }
+#header {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    color:red;
+  }
+
+  /*
+Bilder
+*/
+img {
+    height: auto;
+    width: 500px;
+  }
+  
